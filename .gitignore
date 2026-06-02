@@ -1,0 +1,17 @@
+# Archivos raster grandes
+imagen/*.jp2
+imagen/*.tif
+imagen/*.tiff
+
+# Salidas pesadas
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+venv/
+.env
